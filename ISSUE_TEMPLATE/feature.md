@@ -1,3 +1,11 @@
+---
+name: Feature Report
+about: File a new feature to help us improve
+title: ''
+labels:
+assignees: ''
+---
+
 # Problem
 
 # Why does it matter

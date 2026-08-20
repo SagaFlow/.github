@@ -1,3 +1,11 @@
+---
+name: Research thread
+about: Start researching about a specific thing
+title: ''
+labels: 
+assignees: ''
+---
+
 # Question
 
 # Context
